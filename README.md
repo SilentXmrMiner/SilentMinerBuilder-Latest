@@ -1,5 +1,5 @@
-# SilentXMRMiner-Latest
-SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM & many more
+# SilentMinerBuilder-Latest
+SilentMinerBuilder-Latest - Miner for ETH, ETC, XMR, RTM & many more
 A free silent (hidden) native cryptocurrency miner capable of mining ETH, ETC, XMR, RTM and much more, with many features suited for mining silently.
 
 This miner can mine all the following algorithms and thus any cryptocurrency that uses one of them:
